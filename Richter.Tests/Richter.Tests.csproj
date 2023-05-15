@@ -25,4 +25,10 @@
     <ProjectReference Include="..\Richter.DesignPatterns\Richter.DesignPatterns.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Strategy\rabbitMQList.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,23 @@
+[
+  {
+    "DataId": "1",
+    "Code": "153",
+    "MedicalProcedureCode": "187412",
+    "PatientCode": "85",
+    "Date": "10/06/2024"
+  },
+  {
+    "DataId": "2",
+    "Cd": "152",
+    "MPCode": "187414",
+    "Cpf": "11111111111",
+    "Dt": "11/06/2024"
+  },
+  {
+    "DataId": "3",
+    "Id": "150",
+    "ProcedureId": "187417",
+    "Cpf": "11111111111",
+    "DtProcedure": "12/06/2024"
+  }
+]
