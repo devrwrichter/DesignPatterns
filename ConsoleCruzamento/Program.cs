@@ -28,7 +28,7 @@ static string ValidateInputSeconds(string? vlrSeconds)
 }
 
 var stateCarSemaforo = (TrafficLightState)int.Parse(vlr);
-Cruzamento cruzamento = new();
+TrafficIntersection cruzamento = new();
 AutomateSemaforo(stateCarSemaforo);
 await CruzamentoOperateAsync(GetNextState());
 
